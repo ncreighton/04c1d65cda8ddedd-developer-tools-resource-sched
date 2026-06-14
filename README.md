@@ -1,2 +1,28 @@
-# 04c1d65cda8ddedd-developer-tools-resource-sched
-Professional resource scheduling and booking system built for developer tools operations and growth.
+# Developer Tools Resource Scheduling and Booking System
+
+
+
+---
+
+## Free vs Pro
+
+| Feature | Free | Pro |
+|---------|:----:|:---:|
+| Basic functionality | Yes | Yes |
+| Community support | Yes | Yes |
+| Standard features | Yes | Yes |
+| Advanced automation | - | Yes |
+| Priority support | - | Yes |
+| Custom configurations | - | Yes |
+| Auto-updates | - | Yes |
+| Premium integrations | - | Yes |
+| Unlimited usage | - | Yes |
+
+### Upgrade to Pro
+
+Get the full version with all premium features, priority support, and lifetime updates.
+
+**[Get Pro Version](https://buy.stripe.com/14A6oHeTtgaU09acDWcZd0M)**
+
+- [Buy Now (Stripe)](https://buy.stripe.com/14A6oHeTtgaU09acDWcZd0M)
+
